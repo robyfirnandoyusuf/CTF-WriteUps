@@ -5,7 +5,3 @@
 ## Akses disini Onii-chan 
 - picoCTF 2019 : https://docs.google.com/document/d/1YUg6xlahsjH7jH2Tgv1g78S3e6kEhWZd45voLkKC93Q/
 - X-MAS CTF 2019 : https://docs.google.com/document/d/1eHt8AkW57k5BjvCNCiN6orzEyP0kjcF7FKJXQaVrZIc/edit
-
-
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://docs.google.com/document/d/1YUg6xlahsjH7jH2Tgv1g78S3e6kEhWZd45voLkKC93Q/' width='px' height='px' frameborder='0'>
-</iframe>
