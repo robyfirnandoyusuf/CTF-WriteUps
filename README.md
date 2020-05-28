@@ -1,4 +1,7 @@
 # CTF Write Up ! 
+My writeups and walkthroughs from various CTFs.
+
+Open an issue if you have comments, notice errors, or have any "issues" with this content.
 
 ![image](http://pa1.narvii.com/5862/a247abf2de180e8fd9b4643aefa36ffd1a19d264_hq.gif)
 
