@@ -32,5 +32,10 @@ Open an issue if you have comments, notice errors, or have any "issues" with thi
     <td>https://docs.google.com/document/d/1betf4Diu8HBCgSSnn-O6LGn7eCgYFucC8IpMkj32Pb8/edit</td>
   </tr>
   
+  <tr>
+    <td>HSCTF 2020</td>
+    <td>Docs : https://docs.google.com/document/d/10_8RftC1_QvHzkz-zHFZryajRAGXXjkSXXf4qtp_v04/edit<br> Medium (OSINT challs) : https://medium.com/@robyfirnandoyusuf/hsctf-7-osint-challenges-b10f2d12a45a</td>
+  </tr>
+  
 </table>
 
