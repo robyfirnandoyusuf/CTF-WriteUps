@@ -37,5 +37,10 @@ Open an issue if you have comments, notice errors, or have any "issues" with thi
     <td>Docs : https://docs.google.com/document/d/10_8RftC1_QvHzkz-zHFZryajRAGXXjkSXXf4qtp_v04/edit<br> Medium (OSINT challs) : https://medium.com/@robyfirnandoyusuf/hsctf-7-osint-challenges-b10f2d12a45a</td>
   </tr>
   
+  <tr>
+    <td>RedPwnCTF 2020</td>
+    </td>https://medium.com/@robyfirnandoyusuf/redpwnctf-2020-web-challenges-writeup-12a6a6ace943</td>
+   </tr>
+  
 </table>
 
