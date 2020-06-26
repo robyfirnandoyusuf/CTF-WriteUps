@@ -39,7 +39,7 @@ Open an issue if you have comments, notice errors, or have any "issues" with thi
   
   <tr>
     <td>RedPwnCTF 2020</td>
-    </td>https://medium.com/@robyfirnandoyusuf/redpwnctf-2020-web-challenges-writeup-12a6a6ace943</td>
+    <td>https://medium.com/@robyfirnandoyusuf/redpwnctf-2020-web-challenges-writeup-12a6a6ace943</td>
    </tr>
   
 </table>
