@@ -43,7 +43,7 @@ Open an issue if you have comments, notice errors, or have any "issues" with thi
    </tr>
    
   <tr>
-    <td>XMAS CTF 2020</td>
+    <td>X-MAS CTF 2020</td>
     <td>https://docs.google.com/document/d/19xlEE9Gb7yQDzvGBR1vdCgiJ8X16m7esvHRY4EoTa0o/edit</td>
  </tr>
   
