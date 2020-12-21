@@ -41,6 +41,11 @@ Open an issue if you have comments, notice errors, or have any "issues" with thi
     <td>RedPwnCTF 2020</td>
     <td>https://medium.com/@robyfirnandoyusuf/redpwnctf-2020-web-challenges-writeup-12a6a6ace943</td>
    </tr>
+   
+  <tr>
+    <td>XMAS CTF 2020</td>
+    <td>https://docs.google.com/document/d/19xlEE9Gb7yQDzvGBR1vdCgiJ8X16m7esvHRY4EoTa0o/edit</td>
+ </tr>
   
 </table>
 
