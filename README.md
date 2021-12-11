@@ -52,7 +52,7 @@ Open an issue if you have comments, notice errors, or have any "issues" with thi
     <td>https://drive.google.com/file/d/12IwxYVH0V0OMSrSeVq2JI2kENMofiXrE/view?usp=sharing</td>
  </tr>
   
-    <tr>
+  <tr>
     <td>CTF Cyber Santa by HackTheBox</td>
       <td>
         <ul>
