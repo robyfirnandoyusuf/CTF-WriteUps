@@ -52,5 +52,15 @@ Open an issue if you have comments, notice errors, or have any "issues" with thi
     <td>https://drive.google.com/file/d/12IwxYVH0V0OMSrSeVq2JI2kENMofiXrE/view?usp=sharing</td>
  </tr>
   
+    <tr>
+    <td>CTF Cyber Santa by HackTheBox</td>
+      <td>
+        <ul>
+          <li>[MEMORY FORENSIC](EN) - https://medium.com/@robyfirnandoyusuf/memory-forensic-cyber-santa-is-coming-to-town-ctf-htb-d21905047aeb</li>
+          <li>[all challs I've solved](ID)https://docs.google.com/document/u/1/d/1hNBuXvhkH1rNFSGQGUo85YMgMj-lOvY00M2cHfZDxyI/edit</li>
+        </ul>
+      </td>
+ </tr>
+  
 </table>
 
