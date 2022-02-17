@@ -62,5 +62,10 @@ Open an issue if you have comments, notice errors, or have any "issues" with thi
       </td>
  </tr>
   
+  <tr>
+    <td>diceCTF 2022</td>
+    <td>https://docs.google.com/document/d/1B7zcmHFSDRWMCXWTi52qmBL9EHXbFO1JaePVtAfay_4/edit#</td>
+ </tr>
+  
 </table>
 
