@@ -66,6 +66,10 @@ Open an issue if you have comments, notice errors, or have any "issues" with thi
     <td>diceCTF 2022</td>
     <td>https://docs.google.com/document/d/1B7zcmHFSDRWMCXWTi52qmBL9EHXbFO1JaePVtAfay_4/edit#</td>
  </tr>
+  <tr>
+    <td>Pragyan CTF 2022</td>
+    <td>https://docs.google.com/document/d/1qrAl4lmds9neGOnB7yzgi5poN-xmLdI4FHoPC4ZlOfw/edit?usp=sharing</td>
+ </tr>
   
 </table>
 
