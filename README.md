@@ -70,6 +70,10 @@ Open an issue if you have comments, notice errors, or have any "issues" with thi
     <td>Pragyan CTF 2022</td>
     <td>https://docs.google.com/document/d/1qrAl4lmds9neGOnB7yzgi5poN-xmLdI4FHoPC4ZlOfw/edit?usp=sharing</td>
  </tr>
+   <tr>
+    <td>TJCTF 2022</td>
+    <td>https://docs.google.com/document/d/1CBus5QWAraQPllPoeulPUHTXPIHrJrRaBZUt6D3LKIM/edit#heading=h.ja5jededub6w</td>
+ </tr>
   
 </table>
 
