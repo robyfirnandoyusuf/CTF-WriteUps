@@ -74,6 +74,10 @@ Open an issue if you have comments, notice errors, or have any "issues" with thi
     <td>TJCTF 2022</td>
     <td>https://docs.google.com/document/d/1CBus5QWAraQPllPoeulPUHTXPIHrJrRaBZUt6D3LKIM/edit#heading=h.ja5jededub6w</td>
  </tr>
+ <tr>
+  <td>University Aveiro CyberSecWeek CTF 2022</td>
+  <td>https://docs.google.com/document/d/1R8NvtabPEJhCzR2OUOp7r3SHqbQlOUuiz5GE9SdJ_Y0/edit</td>
+</tr>
   
 </table>
 
