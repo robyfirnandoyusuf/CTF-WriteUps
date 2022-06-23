@@ -3,6 +3,11 @@ My writeups and walkthroughs from various CTFs,play with cR0ot, Hidup Seperti La
 
 Open an issue if you have comments, notice errors, or have any "issues" with this content.
 
+```
+Dokumentasi atas tersiksanya batin karena permintaan hati yang terlalu berat untuk di penuhi.
+Dan untuk ku ceritakan lagi kepada anak anakku nanti.
+```
+
 ![image](http://pa1.narvii.com/5862/a247abf2de180e8fd9b4643aefa36ffd1a19d264_hq.gif)
 
 ## Akses disini Onee-chan 
