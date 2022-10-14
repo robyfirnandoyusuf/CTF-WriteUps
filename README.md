@@ -1,5 +1,5 @@
 # CTF Write-Ups ! 
-My writeups and walkthroughs from various CTFs,play with cR0ot, Hidup Seperti Larry and Jongko_JoyoBoyo team.
+My writeups and walkthroughs from various CTFs,play with cR0ot, Hidup Seperti Larry, Jongko_JoyoBoyo team and etc.
 
 Open an issue if you have comments, notice errors, or have any "issues" with this content.
 
