@@ -95,6 +95,10 @@ Dan untuk ku ceritakan lagi kepada anak anakku nanti.
   <td>Intechfest 2022</td>
   <td>https://docs.google.com/document/d/1ZvzghXU1et0vgI_DcfyHdxBifztvxFLDBrjMGQT6dFw/edit#</td>
 </tr>
+ <tr>
+  <td>irisCTF 2023</td>
+  <td>https://docs.google.com/document/d/16dGI0Ng4_vfh8dbOSbsMvCG7A7kxF9nK7E4JXPp06kQ/edit?usp=sharing</td>
+</tr>
   
 </table>
 
