@@ -99,6 +99,11 @@ Dan untuk ku ceritakan lagi kepada anak anakku nanti.
   <td>irisCTF 2023</td>
   <td>https://docs.google.com/document/d/16dGI0Ng4_vfh8dbOSbsMvCG7A7kxF9nK7E4JXPp06kQ/edit?usp=sharing</td>
 </tr>
+
+<tr>
+  <td>WreckIT40 CTF 2023</td>
+  <td>https://docs.google.com/document/d/1_N4vy4UfcPGCiuOVFenH42FixNdHIvnl0PaKyK45FKo/edit</td>
+</tr>
   
 </table>
 
