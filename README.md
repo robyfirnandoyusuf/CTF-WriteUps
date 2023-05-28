@@ -106,8 +106,8 @@ Dan untuk ku ceritakan lagi kepada anak anakku nanti.
 </tr>
   
   <tr>
-  <td>WreckIT40 CTF 2023</td>
-  <td>[https://docs.google.com/document/d/1_N4vy4UfcPGCiuOVFenH42FixNdHIvnl0PaKyK45FKo/edit](https://docs.google.com/document/u/1/d/1nXnAjR-pEmFK2Z4Ly0HEsRY9qVkFiLzXJ68644RtpBI/edit)</td>
+  <td>TJCTF 2023</td>
+  <td>https://docs.google.com/document/d/1nXnAjR-pEmFK2Z4Ly0HEsRY9qVkFiLzXJ68644RtpBI/edit#heading=h.qa67xesqbadv</td>
 </tr>
   
 </table>
