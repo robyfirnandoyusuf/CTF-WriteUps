@@ -113,5 +113,10 @@ Dan untuk ku ceritakan lagi kepada anak anakku nanti.
   <td>PatriotCTF 2024</td>
   <td>https://docs.google.com/document/d/1WXSETWiT1nvq8QGE1nA4YtScqO7VQpnKB4BZDyhIADo/edit?usp=sharing</td>
 </tr>
+  <tr>
+  <td>CyberGON 2024</td>
+  <td>[https://docs.google.com/document/d/1WXSETWiT1nvq8QGE1nA4YtScqO7VQpnKB4BZDyhIADo/edit?usp=sharing](https://docs.google.com/document/d/1rK2PrX4XWYlCv_q7y-Xd5NtgrA6b4Sbbe2iHRQIpI-Q/edit?tab=t.0)</td>
+</tr>
+
 </table>
 
