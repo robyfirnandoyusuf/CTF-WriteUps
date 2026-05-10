@@ -119,7 +119,7 @@ Dan untuk ku ceritakan lagi kepada anak anakku nanti.
 </tr>
 <tr>
   <td>plfanzen CTF 2026</td>
-  <td>[https://docs.google.com/document/d/1rK2PrX4XWYlCv_q7y-Xd5NtgrA6b4Sbbe2iHRQIpI-Q/edit?tab=t.0#heading=h.mbjsiz6n6jlo](https://docs.google.com/document/d/1u6sUhj4DMbCQ7X4S2zAJCSvhHlk5jGhBIoTr6mZcBys/edit?usp=sharing)</td>
+  <td>https://docs.google.com/document/d/1u6sUhj4DMbCQ7X4S2zAJCSvhHlk5jGhBIoTr6mZcBys/edit?usp=sharing</td>
 </tr>
 
 </table>
